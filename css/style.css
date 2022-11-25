@@ -1,0 +1,250 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.wrapper {
+    padding: 0;
+    margin: 0;
+}
+.header {
+    padding: 0;
+    margin: 0;
+    padding-top: 0;
+    height: 80px;
+    background-color: #d6c35a;
+}
+
+.menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+}
+.menu ul {
+    list-style-type: none;
+    width: 500px;
+    margin: 0 auto;
+}
+.menu li {
+    margin: 30px 0;
+    display: inline-block;
+    text-align: center;
+    float: left;
+    padding: 0 20px;
+}
+.main_img {
+/*    padding-top: 200px;*/
+    padding-top: 150px;
+    width: 600px;
+    margin: 0 auto;
+}
+.main_img img {
+    height: 307px;
+}
+.main_h2 {
+    padding-top: 25px;
+    font-size: 25px;
+}
+.main_h2 h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+.line {
+    width: 75%;
+    border-top: 1px #919191 solid;
+    margin: 0 auto;
+}
+.rest {
+    width: 75%;
+    display: flex;
+    padding-top: 35px;
+    margin: 0 auto;
+    padding-bottom: 10%;
+}
+.cof_room {
+    height: 250px;
+    width: 250px;
+    background-image: url(img/img2.jpg);
+    background-size: cover;
+    margin-right: 200px;
+}
+.cof_room h2 {
+    text-align: center;
+    margin-top: 45%;
+    font-size: 47px;
+    color: #fff;
+}
+.trat {
+    height: 250px;
+    width: 250px;
+    background-image: url(img/546078be9761874dc1f5d8a6af4f60a9.jpg);
+    background-size: cover;
+    margin-right: 200px;
+}
+.trat h2{
+    text-align: center;
+    margin-top: 45%;
+    font-size: 47px;
+    color: #fff; 
+}
+.yard {
+    height: 250px;
+    width: 250px;
+    background-image: url(img/img4.jpg);
+    background-size: cover;
+}
+.yard h2 {
+    text-align: center;
+    margin-top: 45%;
+    font-size: 47px;
+    color: #fff;
+}
+.footer {
+    padding-top: 0;
+    height: 120px;
+    background-color: #d6c35a;
+    display: flex;
+/*    margin-top: 100px;*/
+}
+.info {
+    padding-top: 35px;
+}
+.info a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+.info a:hover {
+    color: #fff;
+}
+.info ul {
+    list-style-type: none;
+}
+.info li {
+    display: inline-block;
+    padding: 0 20px;
+}
+.mail {
+    float: right;
+    width: 300px;
+    text-align: right;
+    padding-top: 30px;
+    padding-left: 40%;
+}
+.mail a {
+    text-decoration: none;
+    color: black;
+}
+.mail a:hover {
+    text-decoration: underline;
+}
+
+.about h1 {
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.about {
+    background: #dbd8ce;
+    
+}
+.txt_ab {
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+    width: 70%;
+    padding-left: 15%;
+    padding-top: 40px;
+    padding-bottom: 5%;
+}
+.ab_img {
+    display: flex;
+    padding-left: 25%;
+    padding-bottom: 10%;
+}
+.ab_img img {
+    height: 150px;
+    margin: 20px;
+}
+.rest-menu h1 {
+    text-transform: uppercase;
+    text-align: center; 
+    padding-top: 30px;
+}
+.rest-menu {
+    padding-bottom: 15%;
+    padding-top: 50px;
+}
+.hot_m {
+    display: flex;
+    padding-left: 35%;
+}
+.rest-menu h3 {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.chm_img {
+    padding-left: 60px;
+}
+.hot_m img {
+    height: 150px;
+}
+.check-meals {
+    margin: 40px;
+}
+.snacks {
+    display: flex;
+    padding-left: 35%;
+}
+.snacks img {
+     height: 150px;
+}
+.check-sn {
+    margin: 40px;
+}
+.drinks {
+    display: flex;
+    padding-left: 35%;
+}
+.chd_img {
+    padding-left: 55px;
+}
+.drinks img {
+    height: 150px;
+}
+.chdrink {
+    margin: 40px;
+}
+.newt {
+    padding-top: 3%;
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 10%;
+}
+.newt h1 {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 38px;
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    background-color: #dbd8ce;
+    height: 40px;
+    border: 1px black solid;
+    
+}
+td {
+    border: 1px black solid;
+}
+tr {
+    height: 40px;
+}
